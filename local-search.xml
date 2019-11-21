@@ -4,9 +4,9 @@
   
   
   <entry>
-    <title>用Optional取代Null</title>
-    <link href="undefined2019/10/12/%E7%94%A8Optional%E5%8F%96%E4%BB%A3Null/"/>
-    <url>2019/10/12/%E7%94%A8Optional%E5%8F%96%E4%BB%A3Null/</url>
+    <title>JAVA8实战 学习与总结第一节</title>
+    <link href="undefined2019/11/21/JAVA8%E5%AE%9E%E6%88%98-%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%80%BB%E7%BB%93%E7%AC%AC%E4%B8%80%E8%8A%82/"/>
+    <url>2019/11/21/JAVA8%E5%AE%9E%E6%88%98-%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%80%BB%E7%BB%93%E7%AC%AC%E4%B8%80%E8%8A%82/</url>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -17,11 +17,11 @@
   
   
   <entry>
-    <title>我的第一篇博客</title>
-    <link href="undefined2019/10/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <url>2019/10/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <title>个人概述</title>
+    <link href="undefined2019/10/09/%E4%B8%AA%E4%BA%BA%E6%A6%82%E8%BF%B0/"/>
+    <url>2019/10/09/%E4%B8%AA%E4%BA%BA%E6%A6%82%E8%BF%B0/</url>
     
-    <content type="html"><![CDATA[<h2 id="First-chapter"><a href="#First-chapter" class="headerlink" title="First chapter"></a>First chapter</h2><p>巴拉巴拉巴拉巴拉</p><hr><h2 id="Second-chapter"><a href="#Second-chapter" class="headerlink" title="Second chapter"></a>Second chapter</h2><p>哦类类类，哦啦啦啦。</p><hr><p>##参考文献</p><p><a href="http://www.baidu.com" target="_blank" rel="noopener">www.baidu.com</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h2><p>一名自学的java并想从事java开发的一名爱好者.<br>目前是一枚菜鸡.<br>努力学习ing……</p><hr><p>另：求各路英豪推荐一下非科班如果学习数据结构.</p><h2 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h2><ul><li>我的邮箱：<a href="mailto:306946338@qq.com" target="_blank" rel="noopener">306946338@qq.com</a></li><li>坐标：四川眉山</li></ul>]]></content>
     
     
     
